@@ -1,0 +1,23 @@
+Comencem a jugar
+Paraula: ****
+Utilitzades: cap
+Intents disponibles: 10
+Introdueix una lletra
+Paraula: j***
+Utilitzades: J
+Intents disponibles: 10
+Introdueix una lletra
+Paraula: ja*a
+Utilitzades: J i A
+Intents disponibles: 10
+Introdueix una lletra
+Has encertat! La paraula era java
+Paraula: ******
+Utilitzades: cap
+Intents disponibles: 10
+Introdueix una lletra
+Paraules jugades: 2
+Paraules encertades: 1
+Paraules fallades: 0
+Paraules cancel·lades: 1
+Espero que t'hagis divertit

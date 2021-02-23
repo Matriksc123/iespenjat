@@ -1,0 +1,91 @@
+Comencem a jugar
+Paraula: ****
+Utilitzades: cap
+Intents disponibles: 10
+Introdueix una lletra
+Paraula: j***
+Utilitzades: J
+Intents disponibles: 10
+Introdueix una lletra
+Paraula: ja*a
+Utilitzades: J i A
+Intents disponibles: 10
+Introdueix una lletra
+Has encertat! La paraula era java
+Paraula: ******
+Utilitzades: cap
+Intents disponibles: 10
+Introdueix una lletra
+Paraula: k*****
+Utilitzades: K
+Intents disponibles: 10
+Introdueix una lletra
+Paraula: ko****
+Utilitzades: K i O
+Intents disponibles: 10
+Introdueix una lletra
+Paraula: kot***
+Utilitzades: K, O i T
+Intents disponibles: 10
+Introdueix una lletra
+Paraula: kotl**
+Utilitzades: K, O, T i L
+Intents disponibles: 10
+Introdueix una lletra
+Paraula: kotli*
+Utilitzades: K, O, T, L i I
+Intents disponibles: 10
+Introdueix una lletra
+Has encertat! La paraula era kotlin
+Paraula: *****
+Utilitzades: cap
+Intents disponibles: 10
+Introdueix una lletra
+Paraula: s****
+Utilitzades: S
+Intents disponibles: 10
+Introdueix una lletra
+Paraula: sc***
+Utilitzades: S i C
+Intents disponibles: 10
+Introdueix una lletra
+Paraula: sca*a
+Utilitzades: S, C i A
+Intents disponibles: 10
+Introdueix una lletra
+Has encertat! La paraula era scala
+Paraula: *******
+Utilitzades: cap
+Intents disponibles: 10
+Introdueix una lletra
+Paraula: c******
+Utilitzades: C
+Intents disponibles: 10
+Introdueix una lletra
+Paraula: cl*****
+Utilitzades: C i L
+Intents disponibles: 10
+Introdueix una lletra
+Paraula: clo****
+Utilitzades: C, L i O
+Intents disponibles: 10
+Introdueix una lletra
+Paraula: cloj***
+Utilitzades: C, L, O i J
+Intents disponibles: 10
+Introdueix una lletra
+Paraula: cloju**
+Utilitzades: C, L, O, J i U
+Intents disponibles: 10
+Introdueix una lletra
+Paraula: clojur*
+Utilitzades: C, L, O, J, U i R
+Intents disponibles: 10
+Introdueix una lletra
+Has encertat! La paraula era clojure
+No queden més paraules
+Paraules jugades: 4
+Paraules encertades: 4
+Paraules fallades: 0
+Paraules cancel·lades: 0
+Espero que t'hagis divertit

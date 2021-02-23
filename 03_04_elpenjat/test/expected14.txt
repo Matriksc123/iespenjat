@@ -1,0 +1,44 @@
+Comencem a jugar
+Paraula: ****
+Utilitzades: cap
+Intents disponibles: 10
+Introdueix una lletra
+Paraula: ******
+Utilitzades: cap
+Intents disponibles: 10
+Introdueix una lletra
+Paraula: *****n
+Utilitzades: N
+Intents disponibles: 10
+Introdueix una lletra
+Paraula: ****in
+Utilitzades: N i I
+Intents disponibles: 10
+Introdueix una lletra
+Paraula: ***lin
+Utilitzades: N, I i L
+Intents disponibles: 10
+Introdueix una lletra
+Paraula: **tlin
+Utilitzades: N, I, L i T
+Intents disponibles: 10
+Introdueix una lletra
+Paraula: *otlin
+Utilitzades: N, I, L, T i O
+Intents disponibles: 10
+Introdueix una lletra
+Has encertat! La paraula era kotlin
+Paraula: *****
+Utilitzades: cap
+Intents disponibles: 10
+Introdueix una lletra
+Paraula: *******
+Utilitzades: cap
+Intents disponibles: 10
+Introdueix una lletra
+No queden més paraules
+Paraules jugades: 4
+Paraules encertades: 1
+Paraules fallades: 0
+Paraules cancel·lades: 3
+Espero que t'hagis divertit

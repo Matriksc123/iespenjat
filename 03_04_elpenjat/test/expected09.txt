@@ -1,0 +1,191 @@
+Comencem a jugar
+Paraula: ****
+Utilitzades: cap
+Intents disponibles: 10
+Introdueix una lletra
+	··········
+	··········
+	··········
+	··········
+	··········
+	··········
+	··········
+	··········
+	··········
+	··········
+	··········
+	··········
+	··········
+	XXXXXXXXXX
+Paraula: ****
+Utilitzades: B
+Intents disponibles: 9
+Introdueix una lletra
+	········X·
+	········X·
+	········X·
+	········X·
+	········X·
+	········X·
+	········X·
+	········X·
+	········X·
+	········X·
+	········X·
+	········X·
+	········X·
+	XXXXXXXXXX
+Paraula: ****
+Utilitzades: B i C
+Intents disponibles: 8
+Introdueix una lletra
+	··XXXXXXX·
+	········X·
+	········X·
+	········X·
+	········X·
+	········X·
+	········X·
+	········X·
+	········X·
+	········X·
+	········X·
+	········X·
+	········X·
+	XXXXXXXXXX
+Paraula: ****
+Utilitzades: B, C i D
+Intents disponibles: 7
+Introdueix una lletra
+	··XXXXXXX·
+	···X····X·
+	········X·
+	········X·
+	········X·
+	········X·
+	········X·
+	········X·
+	········X·
+	········X·
+	········X·
+	········X·
+	········X·
+	XXXXXXXXXX
+Paraula: ****
+Utilitzades: B, C, D i E
+Intents disponibles: 6
+Introdueix una lletra
+	··XXXXXXX·
+	···X····X·
+	··oOo···X·
+	··oOo···X·
+	···O····X·
+	········X·
+	········X·
+	········X·
+	········X·
+	········X·
+	········X·
+	········X·
+	········X·
+	XXXXXXXXXX
+Paraula: ****
+Utilitzades: B, C, D, E i F
+Intents disponibles: 5
+Introdueix una lletra
+	··XXXXXXX·
+	···X····X·
+	··oOo···X·
+	··oOo···X·
+	···O····X·
+	··OOO···X·
+	··OOO···X·
+	··OOO···X·
+	········X·
+	········X·
+	········X·
+	········X·
+	········X·
+	XXXXXXXXXX
+Paraula: ****
+Utilitzades: B, C, D, E, F i G
+Intents disponibles: 4
+Introdueix una lletra
+	··XXXXXXX·
+	···X····X·
+	··oOo···X·
+	··oOo···X·
+	···O····X·
+	·oOOO···X·
+	·oOOO···X·
+	·oOOO···X·
+	········X·
+	········X·
+	········X·
+	········X·
+	········X·
+	XXXXXXXXXX
+Paraula: ****
+Utilitzades: B, C, D, E, F, G i H
+Intents disponibles: 3
+Introdueix una lletra
+	··XXXXXXX·
+	···X····X·
+	··oOo···X·
+	··oOo···X·
+	···O····X·
+	·oOOOo··X·
+	·oOOOo··X·
+	·oOOOo··X·
+	········X·
+	········X·
+	········X·
+	········X·
+	········X·
+	XXXXXXXXXX
+Paraula: ****
+Utilitzades: B, C, D, E, F, G, H i I
+Intents disponibles: 2
+Introdueix una lletra
+	··XXXXXXX·
+	···X····X·
+	··oOo···X·
+	··oOo···X·
+	···O····X·
+	·oOOOo··X·
+	·oOOOo··X·
+	·oOOOo··X·
+	····O···X·
+	····O···X·
+	····Oo··X·
+	········X·
+	········X·
+	XXXXXXXXXX
+Paraula: ****
+Utilitzades: B, C, D, E, F, G, H, I i K
+Intents disponibles: 1
+Introdueix una lletra
+	··XXXXXXX·
+	···X····X·
+	··oOo···X·
+	··oOo···X·
+	···O····X·
+	·oOOOo··X·
+	·oOOOo··X·
+	·oOOOo··X·
+	··O·O···X·
+	··O·O···X·
+	·oO·Oo··X·
+	········X·
+	········X·
+	XXXXXXXXXX
+Has mort
+Paraula: ******
+Utilitzades: cap
+Intents disponibles: 10
+Introdueix una lletra
+Paraules jugades: 2
+Paraules encertades: 0
+Paraules fallades: 1
+Paraules cancel·lades: 1
+Espero que t'hagis divertit

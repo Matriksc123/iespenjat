@@ -1,0 +1,19 @@
+Comencem a jugar
+Paraula: ****
+Utilitzades: cap
+Intents disponibles: 10
+Introdueix una lletra
+Paraula: j***
+Utilitzades: J
+Intents disponibles: 10
+Introdueix una lletra
+La lletra ja ha estat utilitzada
+Paraula: j***
+Utilitzades: J
+Intents disponibles: 10
+Introdueix una lletra
+Paraules jugades: 1
+Paraules encertades: 0
+Paraules fallades: 0
+Paraules cancel·lades: 1
+Espero que t'hagis divertit

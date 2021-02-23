@@ -1,0 +1,46 @@
+Comencem a jugar
+Paraula: ****
+Utilitzades: cap
+Intents disponibles: 10
+Introdueix una lletra
+	··········
+	··········
+	··········
+	··········
+	··········
+	··········
+	··········
+	··········
+	··········
+	··········
+	··········
+	··········
+	··········
+	XXXXXXXXXX
+Paraula: ****
+Utilitzades: B
+Intents disponibles: 9
+Introdueix una lletra
+	········X·
+	········X·
+	········X·
+	········X·
+	········X·
+	········X·
+	········X·
+	········X·
+	········X·
+	········X·
+	········X·
+	········X·
+	········X·
+	XXXXXXXXXX
+Paraula: ****
+Utilitzades: B i C
+Intents disponibles: 8
+Introdueix una lletra
+Paraules jugades: 1
+Paraules encertades: 0
+Paraules fallades: 0
+Paraules cancel·lades: 1
+Espero que t'hagis divertit
