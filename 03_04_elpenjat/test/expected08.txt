@@ -21,20 +21,20 @@ Paraula: ****
 Utilitzades: B
 Intents disponibles: 9
 Introdueix una lletra
-	········X·
-	········X·
-	········X·
-	········X·
-	········X·
-	········X·
-	········X·
-	········X·
-	········X·
-	········X·
-	········X·
-	········X·
-	········X·
-	XXXXXXXXXX
+  ········X·
+  ········X·
+  ········X·
+  ········X·
+  ········X·
+  ········X·
+  ········X·
+  ········X·
+  ········X·
+  ········X·
+  ········X·
+  ········X·
+  ········X·
+  XXXXXXXXXX
 Paraula: ****
 Utilitzades: B i C
 Intents disponibles: 8

@@ -57,12 +57,21 @@ public class Penjat {
         System.out.println("Espero que t'hagis divertit");
     }
     public static String encripta(String text, String adivinades) {
-        //Recursivamente ya que parece la forma mas simple.
+
         String text2 = "";
-        for (int i = 0; i < text.length(); i++) {
-            text2 = text2 + "*";
+        
+        if (text.isEmpty()) {
+            return text2;
         }
-        return text2;
+        char primer = text.charAt(0);
+        
+        text2 = es(primer+"",adivinades) ? (text2 + (primer+"")) : (text2 = text2 + "*");
+
+        // comptem les lletres que conté la resta del text
+        String restaText = text.substring(1);  // resta del text
+        text2 = text2 + encripta(restaText, adivinades);      // crida recursiva
+
+        return text2; 
     }
     public static void mostraFigura(int intent) throws IOException {
     
@@ -83,21 +92,24 @@ public class Penjat {
         
         while ((enc != true || cancel != true) && !lletra.equals("prou")) {
  
-            if (figura != 0) {
-                mostraFigura(intents);
+            if (encripta(text,adivinades).equals(paraula)) {
+                ans = true;
+                enc = true;
             }
-            if (intents == 0 && (ans == false)) {
-                System.out.println("Has fallat :( escriu \"prou\" per sortir o qualsevol cosa per continuar");
-                fallades++;
-                jugades++;
-                lletra = Entrada.readLine();
-                return;
-            } else if (ans == true) {
-                System.out.println("Has encertat :) escriu \"prou\" per sortir o qualsevol cosa per continuar");
+            if (ans == true) {
+                System.out.println("Has encertat! La paraula era " + paraula);
                 encertades++;
                 jugades++;
-                lletra = Entrada.readLine();
                 return;
+            }
+            
+            else if (intents == 0 && (ans == false)) {
+                System.out.println("Has mort");
+                fallades++;
+                jugades++;
+                return;
+            }if (figura != 0) {
+                mostraFigura(intents);
             }
             String adivina = encripta(text, adivinades);
             
@@ -127,13 +139,24 @@ public class Penjat {
                     } else if (!noRepetida(lletra)) {
                         intents++;
                         figura--;
-                        System.out.println("Aquesta lletra ja la vas utilitzar");
+                        System.out.println("La lletra ja ha estat utilitzada");
+                        while (!noRepetida(lletra)) {
+                        System.out.println("Paraula: " + adivina);
+                            if (usades.length() == 0) {
+               System.out.println("Utilitzades: cap"); 
+            } else {
+            System.out.println("Utilitzades: " + probades(usades));
+            }
+            System.out.println("Intents disponibles: " + intents);
+            System.out.println("Introdueix una lletra");
+            lletra = Entrada.readLine();
+                        }
                     }
                 } else if (noRepetida(lletra)) {
                     adivinades = adivinades + lletra;
                     usades = usades + lletra;
                 } else if (!noRepetida(lletra)) {
-                        System.out.println("Aquesta lletra ja la vas utilitzar");
+                        System.out.println("La lletra ja ha estat utilitzada");
                     }
             }
         }
