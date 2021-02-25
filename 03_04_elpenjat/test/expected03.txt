@@ -4,7 +4,7 @@ Utilitzades: cap
 Intents disponibles: 10
 Introdueix una lletra
 	··········
-    ··········
+	··········
 	··········
 	··········
 	··········
